@@ -1,0 +1,14 @@
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\obj\x86\Debug\Battleships.exe
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\obj\x86\Debug\Battleships.pdb
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\obj\x86\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\GamesPortfolio\Battleships\Battleships\obj\x86\Debug\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\GamesPortfolio\Battleships\Battleships\obj\x86\Debug\Battleships.pdb
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\obj\x86\Debug\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\obj\x86\Debug\Battleships.pdb
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\obj\x86\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleship\Source\Battleships\obj\x86\Debug\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleship\Source\Battleships\obj\x86\Debug\Battleships.pdb

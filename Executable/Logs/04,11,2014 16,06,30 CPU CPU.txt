@@ -1,0 +1,73 @@
+PlayerName, GridToAttack, Result
+................................
+CPU,A10,Miss
+CPU,H1,Miss
+CPU,H8,Miss
+CPU,E2,Hit
+CPU,G10,Miss
+CPU,E1,Hit
+CPU sunk CPU's battleship.
+CPU,H7,Miss
+CPU,B6,Miss
+CPU,F8,Miss
+CPU,I9,Miss
+CPU,H2,Miss
+CPU,D9,Miss
+CPU,H5,Miss
+CPU,C3,Hit
+CPU,C9,Miss
+CPU,C2,Hit
+CPU,G1,Miss
+CPU,C1,Hit
+CPU sunk CPU's battleship.
+CPU,G8,Miss
+CPU,C10,Miss
+CPU,I5,Miss
+CPU,J7,Miss
+CPU,F4,Miss
+CPU,D4,Miss
+CPU,D3,Hit
+CPU,J9,Miss
+CPU,D2,Hit
+CPU,G1,Miss
+CPU,D1,Hit
+CPU sunk CPU's battleship.
+CPU,G4,Miss
+CPU,D5,Miss
+CPU,B2,Hit
+CPU,J4,Miss
+CPU,B1,Hit
+CPU,B9,Miss
+CPU,B3,Hit
+CPU,J9,Miss
+CPU,B4,Hit
+CPU sunk CPU's battleship.
+CPU,J5,Miss
+CPU,A10,Miss
+CPU,G6,Miss
+CPU,I6,Miss
+CPU,H6,Miss
+CPU,I8,Miss
+CPU,D6,Miss
+CPU,J5,Miss
+CPU,B2,Hit
+CPU,F3,Miss
+CPU,B1,Hit
+CPU,H8,Miss
+CPU,B3,Hit
+CPU,F9,Miss
+CPU,B4,Hit
+CPU sunk CPU's battleship.
+CPU,C6,Miss
+CPU,C4,Miss
+CPU,B7,Miss
+CPU,F5,Miss
+CPU,F10,Miss
+CPU,E4,Miss
+CPU,H5,Miss
+CPU,C5,Miss
+CPU,I5,Miss
+CPU,J2,Miss
+CPU,C7,Miss
+CPU,D10,Miss
+CPU,E9,Miss

@@ -1,0 +1,24 @@
+PlayerName, GridToAttack, Result
+................................
+CPU,G4,Hit
+CPU,B10,Miss
+CPU,G3,Miss
+CPU,B1,Miss
+CPU,H4,Miss
+CPU,F10,Miss
+CPU,G5,Hit
+CPU,A2,Miss
+CPU,G6,Hit
+CPU sunk CPU's battleship.
+CPU,I3,Hit
+CPU,B2,Miss
+CPU,I2,Hit
+CPU,J6,Miss
+CPU,I1,Hit
+CPU,A6,Hit
+CPU,I4,Miss
+CPU,A5,Miss
+CPU,I5,Miss
+CPU,B6,Hit
+CPU,I6,Hit
+CPU,C6,Hit

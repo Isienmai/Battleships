@@ -1,0 +1,6 @@
+PlayerName, GridToAttack, Result
+................................
+CPU,D4,Hit
+CPU,G6,Miss
+CPU,D3,Miss
+CPU,J4,Miss

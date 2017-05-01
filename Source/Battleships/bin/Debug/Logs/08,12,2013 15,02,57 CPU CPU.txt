@@ -1,0 +1,51 @@
+PlayerName, GridToAttack, Result
+................................
+CPU,I3,Hit
+CPU,J2,Miss
+CPU,I2,Miss
+CPU,E1,Hit
+CPU,J3,Hit
+CPU,F1,Miss
+CPU,I4,Hit
+CPU,E2,Hit
+CPU,I5,Hit
+CPU sunk CPU's battleship.
+CPU,D1,Hit
+CPU,E8,Hit
+CPU,C1,Hit
+CPU sunk CPU's battleship.
+CPU,E7,Hit
+CPU,B5,Hit
+CPU,E6,Hit
+CPU sunk CPU's battleship.
+CPU,B4,Hit
+CPU,F4,Miss
+CPU,B3,Miss
+CPU,H9,Hit
+CPU,B6,Hit
+CPU sunk CPU's battleship.
+CPU,H8,Miss
+CPU,G9,Miss
+CPU,I9,Hit
+CPU,A5,Hit
+CPU,J9,Hit
+CPU sunk CPU's battleship.
+CPU,A4,Hit
+CPU,D10,Hit
+CPU,A3,Hit
+CPU,D9,Miss
+CPU,A2,Hit
+CPU,E10,Hit
+CPU sunk CPU's battleship.
+CPU,A1,Miss
+CPU,F2,Miss
+CPU,A6,Hit
+CPU sunk CPU's battleship.
+CPU,D1,Hit
+CPU,B9,Miss
+CPU,E1,Hit
+CPU,B8,Miss
+CPU,D2,Miss
+CPU,E6,Hit
+CPU,C1,Hit
+CPU,E5,Hit

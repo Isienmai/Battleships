@@ -1,0 +1,16 @@
+PlayerName, GridToAttack, Result
+................................
+ISI,E1,Hit
+GZO,A1,Hit
+ISI,E2,Hit
+ISI sunk GZO's battleship.
+GZO,A2,Hit
+ISI,B1,Hit
+GZO,A3,Hit
+ISI,B2,Hit
+GZO,A4,Hit
+ISI,B3,Hit
+GZO,A5,Hit
+GZO sunk ISI's battleship.
+Game Saved
+Game Loaded

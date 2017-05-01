@@ -1,0 +1,12 @@
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\bin\Release\Battleships.exe
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\bin\Release\Battleships.pdb
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\obj\x86\Release\Battleships.exe
+C:\Users\Isienmai\Documents\UNI\Programming1\assesments\Battleships\Battleships\obj\x86\Release\Battleships.pdb
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\bin\Release\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\bin\Release\Battleships.pdb
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\obj\x86\Release\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleships\Battleships\obj\x86\Release\Battleships.pdb
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleship\Source\Battleships\bin\Release\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleship\Source\Battleships\bin\Release\Battleships.pdb
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleship\Source\Battleships\obj\x86\Release\Battleships.exe
+C:\Users\Isienmai\Documents\1---HEYMRTVMANLOOKIEHERE---1\Work\Job-Stuff\Portfolio\Battleship\Source\Battleships\obj\x86\Release\Battleships.pdb

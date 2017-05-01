@@ -1,0 +1,7 @@
+PlayerName, GridToAttack, Result
+................................
+ISI,F1,Miss
+CPU,C1,Hit
+Game Saved
+-------------------------------------
+Game Exited

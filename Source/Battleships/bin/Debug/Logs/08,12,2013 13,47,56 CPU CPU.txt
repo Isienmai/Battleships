@@ -1,0 +1,19 @@
+PlayerName, GridToAttack, Result
+................................
+CPU,B3,Miss
+CPU,I7,Miss
+CPU,A9,Miss
+CPU,G10,Miss
+CPU,H6,Miss
+CPU,D8,Miss
+CPU,A7,Miss
+CPU,C4,Miss
+CPU,D8,Miss
+CPU,H8,Miss
+CPU,G2,Miss
+CPU,F3,Miss
+CPU,J5,Miss
+CPU,J9,Miss
+CPU,J10,Miss
+CPU,G1,Hit
+CPU,J8,Miss
